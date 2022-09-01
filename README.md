@@ -4,4 +4,4 @@
 
 (https://doi.org/10.5281/zenodo.7039968)
 
-Model data in Liu et al. 2022 GRL
+Model data in Liu et al. (2022) GRL
